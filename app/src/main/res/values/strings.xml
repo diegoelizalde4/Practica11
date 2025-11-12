@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">Practica11</string>
+    <string name="app_name">Concesionaria Deportiva</string>
+
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="checkbox_recordar">Recordar datos</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="login_error">Credenciales incorrectas</string>
+
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_gestion">Gestión de Vehículos</string>
+    <string name="menu_listado">Inventario (Lista)</string>
+    <string name="menu_salir">Cerrar Sesión</string>
+
+    <string name="nav_header_title">Concesionaria App</string>
+    <string name="nav_header_subtitle">admin@concesionaria.com</string>
+    <string name="desc_logo">Logo de la aplicación</string>
+
+    <string name="titulo_gestion">Gestión de Vehículos</string>
+    <string name="hint_marca">Marca</string>
+    <string name="hint_modelo">Modelo</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_hp">Caballos de Fuerza</string>
+    <string name="hint_precio">Precio</string>
+
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <string name="titulo_inventario">Inventario Disponible</string>
+    <string name="msg_sin_datos">No hay vehículos registrados</string>
+    <string name="error_red">Error de conexión con el servidor</string>
+    <string name="bienvenida">¡Bienvenido al Sistema!</string>
 </resources>
